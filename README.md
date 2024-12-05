@@ -43,6 +43,10 @@ Config.Input = 'qb-menu'
 
 ![previewoxlib](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/config_emotesync_ox_lib.png)
 ![previewqbmenu](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/config_emotesync_qb_menu.png)
+![previewcommand](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/previewcommand.png)
+
+## Previews Video
+
 ![previewgifdance](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/PreviewJoget.gif)
 
 ## Previews Resmon Client Side
