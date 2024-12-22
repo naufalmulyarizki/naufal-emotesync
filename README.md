@@ -49,7 +49,7 @@ Config.Input = 'qb-menu'
 
 ![previewgifdance](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/PreviewJoget.gif)
 
-https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/2024-12-0511-07-40.mp4
+https://github.com/user-attachments/assets/c3b81bb4-a049-4fb7-9097-263d663c3db9
 
 ## Previews Resmon Client Side
 
